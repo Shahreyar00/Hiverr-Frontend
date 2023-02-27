@@ -10,6 +10,4 @@
   * Messages page
   * Add new page
   
- ```
- [Visit the Hiverr](https://hiverr.netlify.app)
- ```
+[Visit the Hiverr](https://hiverr.netlify.app)
