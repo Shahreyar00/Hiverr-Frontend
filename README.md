@@ -11,3 +11,8 @@
   * Add new page
   
 [Visit the Hiverr](https://hiverr.netlify.app)
+***
+![Screenshot (776)](https://user-images.githubusercontent.com/70688937/221496219-696fbe0f-0374-44b6-bdb9-51a36fe5fb7d.png)
+***
+![Screenshot (777)](https://user-images.githubusercontent.com/70688937/221496297-da540dbd-9918-40b4-abab-64cf30d8285e.png)
+***
