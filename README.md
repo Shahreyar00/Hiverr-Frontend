@@ -10,7 +10,7 @@
   * Messages page
   * Add new page
   
-[Visit the Hiverr](https://hiverr.netlify.app)
+[Visit Hiverr](https://hiverr.netlify.app)
 ***
 ![Screenshot (776)](https://user-images.githubusercontent.com/70688937/221496219-696fbe0f-0374-44b6-bdb9-51a36fe5fb7d.png)
 ***
